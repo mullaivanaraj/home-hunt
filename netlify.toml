@@ -1,6 +1,6 @@
 [build]
-  publish = "dist/portfolio"
-  command = "ng build --prod"
+  publish = ""
+  command = "next build"
     functions = "./functions"
 [[redirects]]
   from = "/*"
