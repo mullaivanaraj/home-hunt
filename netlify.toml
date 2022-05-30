@@ -1,5 +1,5 @@
 [build]
-  publish = ""
+  publish = ".next"
   command = "next build"
     functions = "./functions"
 [[redirects]]
